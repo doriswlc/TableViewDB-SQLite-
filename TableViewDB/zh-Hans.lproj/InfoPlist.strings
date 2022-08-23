@@ -1,0 +1,7 @@
+"navigationItem.title" = "我的数据库";
+"edit" = "编辑";
+"add" = "新增";
+//替換App名稱
+"CFBundleDisplayName" = "我的数据库";
+//替換Info.plist檔案內的語系名稱
+"NSCameraUsageDescription" = "使用相机以替换大头照";

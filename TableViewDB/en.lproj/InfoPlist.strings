@@ -1,0 +1,7 @@
+"navigationItem.title" = "My DataBase";
+"edit" = "Edit";
+"add" = "Add";
+//替換App名稱
+"CFBundleDisplayName" = "My DB";
+//替換Info.plist檔案內的語系名稱
+"NSCameraUsageDescription" = "Use Camara to replace your photo.";

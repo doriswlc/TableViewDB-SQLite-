@@ -1,0 +1,7 @@
+"navigationItem.title" = "我的資料庫";
+"edit" = "編輯";
+"add" = "新增";
+//替換App名稱
+"CFBundleDisplayName" = "我的資料庫";
+//替換Info.plist檔案內的語系名稱
+"NSCameraUsageDescription" = "使用相機以替換大頭照";
