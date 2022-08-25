@@ -207,7 +207,7 @@
                                 </connections>
                             </textField>
                             <textField opaque="NO" tag="5" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="99f-nI-gFc">
-                                <rect key="frame" x="71" y="555" width="311" height="34"/>
+                                <rect key="frame" x="71" y="555" width="284" height="34"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <textInputTraits key="textInputTraits"/>
@@ -282,13 +282,6 @@
                                     <action selector="editingDidBegin:" destination="kHv-Vi-kC5" eventType="editingDidBegin" id="g6s-Pd-LVO"/>
                                 </connections>
                             </textField>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pzm-3z-oFX">
-                                <rect key="frame" x="274" y="738" width="42" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="MTm-OC-QlK"/>
                         <color key="backgroundColor" systemColor="systemMintColor"/>
@@ -315,7 +308,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="1262" y="506"/>
+            <point key="canvasLocation" x="1261.5384615384614" y="505.4502369668246"/>
         </scene>
         <!--Detail View Controller-->
         <scene sceneID="ABN-cu-EcI">
